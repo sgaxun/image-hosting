@@ -1,4 +1,4 @@
-const WIFI_DONT_NEED_PROXYS = ['sgaxun5'];
+const WIFI_DONT_NEED_PROXYS = ['sgaxun5','ASUS_KH_5G-1'];
 const CURRENT_WIFI_SSID_KEY = 'current_wifi_ssid';
 
 if (wifiChanged()) {
